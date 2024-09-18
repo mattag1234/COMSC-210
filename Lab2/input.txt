@@ -1,0 +1,17 @@
+5
+r broken
+r broken
+i fixed
+i fixed
+r broken
+6
+i iostream
+i stacks
+i cmath
+r cmath
+r stacks
+r iostream
+3
+i blue
+r blue
+i purple
