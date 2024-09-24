@@ -1,0 +1,10 @@
+Lab 1 was the syracuse function,
+this module was about abstraction and recursion.
+
+main.cpp was the abstract recursive program that had 
+a function that ran once and would call it self until 
+certain paramters were met
+
+main2.cpp was a simple iterative function, which is less complicasted
+same output, and both worked the same
+

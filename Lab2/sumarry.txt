@@ -1,0 +1,6 @@
+This module was about stacks, and push, pop and other functs
+This code was aobut takig input and having a program determine 
+whether the inputted data was either a stack or non-stack
+characteristics of such are: if added to list, when removing 
+it removes the last added, similarly a protocoll like: LIFO
+last-in, first-out. 

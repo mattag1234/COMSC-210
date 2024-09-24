@@ -1,7 +1,11 @@
 # Ignore everything
-*
+.vscode/*
+lab0-Part1.dSYM/*
+lab0-Part2.dSYM/*
+*.exe
 
 # Don't ignore .cpp, .txt, and .md files
+!*/
 !*.cpp
 !*.txt
 !*.md
