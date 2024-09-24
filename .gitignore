@@ -1,1 +1,7 @@
-#discluding the non-essential files wanna keep the repo clean
+# Ignore everything
+*
+
+# Don't ignore .cpp, .txt, and .md files
+!*.cpp
+!*.txt
+!*.md
